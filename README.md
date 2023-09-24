@@ -1,5 +1,4 @@
-```markdown
-# Housing Price Prediction Project
+Housing Price Prediction
 
 ## Overview
 
