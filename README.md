@@ -1,6 +1,4 @@
-## Housing Price Prediction
-
-## Predict Median House Prices based on Median Income
+## Housing Price Prediction - Predict Median House Prices based on Median Income
 
 ## Overview
 
