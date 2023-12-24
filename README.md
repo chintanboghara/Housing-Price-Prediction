@@ -1,5 +1,7 @@
 ## Housing Price Prediction
 
+## Predict Median House Prices based on Median Income
+
 ## Overview
 
 This project is a simple machine learning task that aims to predict median house prices based on median income. It uses a linear regression model for prediction and includes data preprocessing, visualization, model building, and evaluation.
