@@ -12,44 +12,6 @@ The project is organized as follows:
 
 - **`housing_price_prediction.ipynb`**: This Jupyter Notebook contains the Python code for data analysis, preprocessing, modeling, and visualization.
 
-## Prerequisites
-
-Before running the code in this project, make sure you have the following dependencies installed:
-
-- Python 3.x
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- Scikit-Learn
-
-You can install these packages using pip:
-
-```bash
-pip install pandas matplotlib scikit-learn
-```
-
-## Usage
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd housing-price-prediction
-   ```
-
-3. Run the Jupyter Notebook:
-
-   ```bash
-   jupyter notebook housing_price_prediction.ipynb
-   ```
-
-4. Follow the instructions and comments in the Jupyter Notebook to execute the code step by step.
-
 ## Data
 
 The dataset used in this project, `housing.csv`, contains the following columns:
